@@ -2,7 +2,7 @@
 Neste repositório estão minhas soluções para a lista de exercícios de estruturas de decisão do Python Brasil em Liguagem C. 
 
 
-Exercícios do site 'Python Brasil' modulo 'Estrutura de Decisão' https://wiki.python.org.br/EstruturaDeDecisao
+Exercícios do site 'Python Brasil' módulo 'Estrutura de Decisão' https://wiki.python.org.br/EstruturaDeDecisao
 
 1. Faça um Programa que peça dois números e imprima o maior deles.
 
